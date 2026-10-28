@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-10-28T05:16:56.374166995Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-28T05:38:23.032003830Z",
     "templateType": "trip_f",
     "propertyId": "13cf013e-bbe5-4433-a036-644ef866fa44",
     "homepageId": "01a0fb49-6eb7-7c66-a9f6-79e9e15a55be"
@@ -6346,15 +6346,15 @@
               {
                 "id": "01a0fb4a-2502-7701-af40-377d978cd0b6",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0fb49-6eb7-7c66-a9f6-79e9e15a55be/popup/1790922295279-nboox8ybb6.jpg",
-                "sortOrder": 0,
+                "sortOrder": 2,
                 "description": "",
-                "isSelected": true,
+                "isSelected": false,
                 "blockId": "95505150-bbe3-4a6b-ac89-122c5cbd1ee5"
               }
             ],
             "slider": false,
             "videos": [ ],
-            "enabled": false,
+            "enabled": true,
             "endDate": null,
             "sortOrder": 0,
             "startDate": null,
@@ -6368,7 +6368,7 @@
               {
                 "id": "01a180f0-9117-7463-be45-344cbb566bc6",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0fb49-6eb7-7c66-a9f6-79e9e15a55be/popup/1793164611115-8oaavi8ziy.png",
-                "sortOrder": 1,
+                "sortOrder": 0,
                 "description": "",
                 "isSelected": true,
                 "blockId": "a492a499-b17d-4f7c-8dbe-993b81ec3d40"
@@ -6390,7 +6390,7 @@
               {
                 "id": "01a180f0-90ba-7cf8-a811-ab416466537c",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0fb49-6eb7-7c66-a9f6-79e9e15a55be/popup/1793164611115-4a335n4nhh.jpg",
-                "sortOrder": 2,
+                "sortOrder": 1,
                 "description": "",
                 "isSelected": true,
                 "blockId": "c2342a15-4e2e-4b16-9a67-1d99d040a3be"
